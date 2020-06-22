@@ -26,3 +26,7 @@ All programming paradigms illustrated in Python
     - Bellman-Ford Algorithm
     - Floyd-Warshall Algorithm
     - Johnsons Algorithm
+- Minimum Spanning Tree:
+    - Prims Algorithm
+    - Krushakals Algorithm
+    - Boruvka's Algorithm
