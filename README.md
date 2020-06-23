@@ -26,3 +26,6 @@ All programming paradigms illustrated in Python
     - Bellman-Ford Algorithm
     - Floyd-Warshall Algorithm
     - Johnsons Algorithm
+- Pattern Matching:
+    - Robin-Karp Algorithm
+    - Knuth-Morris-Pratt (KMP) Algorithm
