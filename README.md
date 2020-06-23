@@ -31,5 +31,5 @@ All programming paradigms illustrated in Python
     - Krushakals Algorithm
     - Boruvka's Algorithm
 - Pattern Matching:
-    - Robin-Karp Algorithm
+    - Rabin-Karp Algorithm
     - Knuth-Morris-Pratt (KMP) Algorithm
