@@ -26,13 +26,10 @@ All programming paradigms illustrated in Python
     - Bellman-Ford Algorithm
     - Floyd-Warshall Algorithm
     - Johnsons Algorithm
-<<<<<<< HEAD
-- Pattern Matching:
-    - Robin-Karp Algorithm
-    - Knuth-Morris-Pratt (KMP) Algorithm
-=======
 - Minimum Spanning Tree:
     - Prims Algorithm
     - Krushakals Algorithm
     - Boruvka's Algorithm
->>>>>>> 238886fb4fd3fddac9082e439e26e17fabb848af
+- Pattern Matching:
+    - Robin-Karp Algorithm
+    - Knuth-Morris-Pratt (KMP) Algorithm
